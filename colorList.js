@@ -1,6 +1,6 @@
 module.exports = [
   { hex: "#000000", en: "Black", it: "Nero" },
-  { hex: "#000080", en: "Navy", it: "Blu marino" },
+  { hex: "#000080", en: "Navy blue", it: "Blu marino" },
   { hex: "#00008b", en: "Dark blue", it: "Blu scuro" },
   { hex: "#0000ff", en: "Blue", it: "Blu" },
   { hex: "#006400", en: "Dark green", it: "Verde scuro" },
@@ -13,7 +13,7 @@ module.exports = [
   { hex: "#40e0d0", en: "Turquoise", it: "Turchese" },
   { hex: "#4b0082", en: "Indigo", it: "Indaco" },
   { hex: "#7fffd4", en: "Aquamarine", it: "Acquamarina" },
-  { hex: "#800000", en: "Maroon", it: "Granata" },
+  { hex: "#800000", en: "Maroon", it: "Bordeaux" },
   { hex: "#800080", en: "Purple", it: "Viola" },
   { hex: "#808000", en: "Olive", it: "Oliva" },
   { hex: "#808080", en: "Gray", it: "Grigio" },
