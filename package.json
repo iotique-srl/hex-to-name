@@ -1,0 +1,7 @@
+{
+  "name": "@igloocloud/hex-to-name",
+  "version": "1.0.0",
+  "description": "Colors that humans can understand",
+  "main": "./index.js",
+  "author": "Igloo"
+}
