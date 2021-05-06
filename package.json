@@ -1,5 +1,5 @@
 {
-  "name": "@igloocloud/hex-to-name",
+  "name": "@igloo_cloud/hex-to-name",
   "version": "1.0.0",
   "description": "Colors that humans can understand",
   "main": "./index.js",

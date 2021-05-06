@@ -13,7 +13,7 @@ Color names are currently available in the following languages:
 
 # Installation
 
-Just download the library from [npm](https://www.npmjs.com/package/@igloo-cloud/hex-to-name).
+Just download the library from [npm](https://www.npmjs.com/package/@igloo_cloud/hex-to-name).
 
 **Using npm**
 
