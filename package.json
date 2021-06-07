@@ -1,9 +1,9 @@
 {
   "name": "@igloo_cloud/hex-to-name",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Colors that humans can understand",
   "main": "./index.js",
-  "author": "Igloo",
+  "author": "IglooCloud",
   "dependencies": {
     "delta-e": "^0.0.8",
     "rgb-lab": "^1.0.0"
