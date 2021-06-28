@@ -28,7 +28,7 @@ module.exports = [
   { hex: "#d3d3d3", en: "Light gray", it: "Grigio chiaro" },
   { hex: "#dc143c", en: "Crimson", it: "Cremisi" },
   { hex: "#dda0dd", en: "Plum", it: "Prugna" },
-  { hex: "#e6e6fa", en: "Lavender", it: "Lavender" },
+  { hex: "#e6e6fa", en: "Lavender", it: "Lavanda" },
   { hex: "#f0e68c", en: "Khaki", it: "Kaki" },
   { hex: "#fa8072", en: "Salmon", it: "Salmone" },
   { hex: "#ff0000", en: "Red", it: "Rosso" },
