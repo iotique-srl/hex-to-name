@@ -1,5 +1,5 @@
 {
-  "name": "@igloo_cloud/hex-to-name",
+  "name": "@iotique-srl/hex-to-name",
   "version": "1.0.3",
   "description": "Colors that humans can understand",
   "main": "./index.js",
